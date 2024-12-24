@@ -4,7 +4,7 @@ Bem-vindo ao repositório do Gerador de Senhas Automáticas! Este projeto foi de
 
 ## 📋 Índice
 
-- [Sobre o Projeto](#sobre-o-projeto)
+- [Sobre o Projeto](https://github.com/BackandDeveloper/Gerador-de-senhas-autom-ticas-?tab=readme-ov-file#-sobre-o-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Executar o Projeto](#como-executar-o-projeto)
 - [Estrutura do Projeto](#estrutura-do-projeto)
