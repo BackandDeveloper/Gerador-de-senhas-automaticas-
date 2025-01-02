@@ -29,31 +29,41 @@ Para executar o Gerador de Senhas Automáticas localmente, siga estas etapas:
    git clone https://github.com/BackandDeveloper/Gerador-de-senhas-autom-ticas-.git
 Navegue até o diretório do projeto:
 
-bash
+```
 cd Gerador-de-senhas-autom-ticas-
 Compile o projeto:
-
-bash
+```
+```
 swiftc Gerador\ de\ senhas\ automáticas\ na\ linguagem\ Swift.swift -o GeradorDeSenhas
 Execute o Gerador de Senhas com o comando desejado:
+```
 
-bash
+```
 ./GeradorDeSenhas
 Digite o comprimento da senha: Insira o comprimento desejado para a senha.
 
-Incluir letras maiúsculas? (s/n): Escolha se deseja incluir letras maiúsculas.
+```
 
+```
+
+Incluir letras maiúsculas? (s/n): Escolha se deseja incluir letras maiúsculas.
+```
 Incluir números? (s/n): Escolha se deseja incluir números.
 
+```
 Incluir caracteres especiais? (s/n): Escolha se deseja incluir caracteres especiais.
+```
 
 📂| Estrutura do Projeto
+
 A estrutura do projeto é a seguinte:
 
+```
 Gerador-de-senhas-autom-ticas-/
 ├── Gerador de senhas automáticas na linguagem Swift.swift
-
 └── README.md
+```
+
 🤝| Contribuição
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
