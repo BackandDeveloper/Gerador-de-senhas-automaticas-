@@ -1,6 +1,6 @@
 # 🔐| Gerador de Senhas Automáticas
 
-Bem-vindo ao repositório do Gerador de Senhas Automáticas! Este projeto foi desenvolvido como parte do curso Full Stack, utilizando Swift para criar uma ferramenta de linha de comando que gera senhas seguras e personalizáveis. 🔒
+Bem-vindo ao repositório do Gerador de Senhas Automáticas! Este projeto foi desenvolvido como parte do curso de desenvolvedor iOS, utilizando Swift para criar uma ferramenta de linha de comando que gera senhas seguras e personalizáveis! 🔒
 
 ## 📋| Índice
 
