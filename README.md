@@ -54,7 +54,7 @@ Incluir números? (s/n): Escolha se deseja incluir números.
 Incluir caracteres especiais? (s/n): Escolha se deseja incluir caracteres especiais.
 ```
 
-📂| Estrutura do Projeto
+🗂️| Estrutura do Projeto
 
 A estrutura do projeto é a seguinte:
 
