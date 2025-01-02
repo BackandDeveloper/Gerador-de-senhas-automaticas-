@@ -1,8 +1,8 @@
-# 🔐 Gerador de Senhas Automáticas
+# 🔐| Gerador de Senhas Automáticas
 
 Bem-vindo ao repositório do Gerador de Senhas Automáticas! Este projeto foi desenvolvido como parte do curso Full Stack, utilizando Swift para criar uma ferramenta de linha de comando que gera senhas seguras e personalizáveis. 🔒
 
-## 📋 Índice
+## 📋| Índice
 
 - [Sobre o Projeto](https://github.com/BackandDeveloper/Gerador-de-senhas-autom-ticas-?tab=readme-ov-file#-sobre-o-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -12,15 +12,15 @@ Bem-vindo ao repositório do Gerador de Senhas Automáticas! Este projeto foi de
 - [Licença](#licença)
 - [Contato](#contato)
 
-## 🌟 Sobre o Projeto
+## 🌟| Sobre o Projeto
 
 O Gerador de Senhas Automáticas é uma ferramenta de linha de comando que permite gerar senhas seguras com opções de personalização, como inclusão de letras maiúsculas, números e caracteres especiais. Este projeto foi desenvolvido para praticar habilidades em Swift e manipulação de strings.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️| Tecnologias Utilizadas
 
 - **Swift**: Linguagem de programação utilizada para desenvolver a ferramenta
 
-## 🚀 Como Executar o Projeto
+## 🚀| Como Executar o Projeto
 
 Para executar o Gerador de Senhas Automáticas localmente, siga estas etapas:
 
@@ -47,20 +47,20 @@ Incluir números? (s/n): Escolha se deseja incluir números.
 
 Incluir caracteres especiais? (s/n): Escolha se deseja incluir caracteres especiais.
 
-📂 Estrutura do Projeto
+📂| Estrutura do Projeto
 A estrutura do projeto é a seguinte:
 
 Gerador-de-senhas-autom-ticas-/
 ├── Gerador de senhas automáticas na linguagem Swift.swift
 
 └── README.md
-🤝 Contribuição
+🤝| Contribuição
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-📄 Licença
+📄| Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-📞 Contato
+📞| Contato
 Se você tiver alguma dúvida ou quiser saber mais sobre o projeto, entre em contato:
 
 Email: [henrique.pedro@aluno.ifce.edu.br]
