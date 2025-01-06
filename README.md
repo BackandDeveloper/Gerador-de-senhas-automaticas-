@@ -65,7 +65,7 @@ Gerador-de-senhas-autom-ticas-/
 ```
 
 👥| Contribuição
-Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para mr mandar um e-mail solicitando!
 
 📄| Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
