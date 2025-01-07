@@ -8,8 +8,7 @@ Bem-vindo ao repositório do Gerador de Senhas Automáticas! Este projeto foi de
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Executar o Projeto](#como-executar-o-projeto)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- [Contribuição](#contribuição)
-
+-
 
 
 ## 🌟| Sobre o Projeto
