@@ -24,6 +24,7 @@ cd Gerador-de-senhas-autom-ticas-
 Compile o projeto:
 
 ```
+
 ```
 swiftc Gerador\ de\ senhas\ automáticas\ na\ linguagem\ Swift.swift -o GeradorDeSenhas
 Execute o Gerador de Senhas com o comando desejado:
