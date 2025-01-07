@@ -6,7 +6,7 @@ Bem-vindo ao repositório do Gerador de Senhas Automáticas! Este projeto foi de
 
 O Gerador de Senhas Automáticas é uma ferramenta de linha de comando que permite gerar senhas seguras com opções de personalização, como inclusão de letras maiúsculas, números e caracteres especiais. Este projeto foi desenvolvido para praticar habilidades em Swift e manipulação de strings.
 
-## 🛠️| Tecnologias Utilizadas
+## 📲| Tecnologias Utilizadas
 
 - **Swift**: Linguagem de programação utilizada para desenvolver a ferramenta
 
