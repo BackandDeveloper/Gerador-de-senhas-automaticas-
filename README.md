@@ -21,7 +21,7 @@ Navegue até o diretório do projeto:
 
 ```
 cd Gerador-de-senhas-autom-ticas-
-Compile o projeto:
+
 
 ```
 
