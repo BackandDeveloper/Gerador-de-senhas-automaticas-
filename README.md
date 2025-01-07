@@ -15,7 +15,7 @@ O Gerador de Senhas Automáticas é uma ferramenta de linha de comando que permi
 Para executar o Gerador de Senhas Automáticas localmente, siga estas etapas:
 
 1. **Clone o repositório:**
-   ```bash
+   ```
    git clone https://github.com/BackandDeveloper/Gerador-de-senhas-autom-ticas-.git
 Navegue até o diretório do projeto:
 ```
