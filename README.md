@@ -54,7 +54,7 @@ Gerador-de-senhas-autom-ticas-/
 └── README.md
 ```
 
-👥| Contribuição
+#👥| Contribuição
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para mr mandar um e-mail solicitando!
 
 📄| Licença
