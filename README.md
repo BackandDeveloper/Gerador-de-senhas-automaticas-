@@ -17,7 +17,7 @@ Para executar o Gerador de Senhas Automáticas localmente, siga estas etapas:
 1. **Clone o repositório:**
    ```
    git clone https://github.com/BackandDeveloper/Gerador-de-senhas-autom-ticas-.git
-Navegue até o diretório do projeto:
+2Navegue até o diretório do projeto:
 ```
 cd Gerador-de-senhas-autom-ticas-
 
