@@ -26,7 +26,6 @@ cd Gerador-de-senhas-autom-ticas-
 ```
 swiftc Gerador\ de\ senhas\ automáticas\ na\ linguagem\ Swift.swift -o GeradorDeSenhas
 
-
 ```
 
 ```
