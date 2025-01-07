@@ -20,6 +20,7 @@ Para executar o Gerador de Senhas Automáticas localmente, siga estas etapas:
 Navegue até o diretório do projeto:
 ```
 cd Gerador-de-senhas-autom-ticas-
+
 ```
 **Compile o projeto**
 ```
