@@ -34,7 +34,7 @@ swiftc Gerador\ de\ senhas\ automáticas\ na\ linguagem\ Swift.swift -o GeradorD
 Digite o comprimento da senha: Insira o comprimento desejado para a senha.
 
 ```
-4Digite o comprimento da senha: Insira o comprimento desejado para a senha.
+4.Digite o comprimento da senha: Insira o comprimento desejado para a senha.
 
 ```
 
