@@ -39,6 +39,7 @@ Digite o comprimento da senha: Insira o comprimento desejado para a senha.
 ```
 
 Incluir letras maiúsculas? (s/n): Escolha se deseja incluir letras maiúsculas.
+
 ```
 Incluir números? (s/n): Escolha se deseja incluir números.
 
