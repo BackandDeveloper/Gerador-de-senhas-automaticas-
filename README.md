@@ -40,7 +40,7 @@ Incluir letras maiúsculas? (s/n): Escolha se deseja incluir letras maiúsculas.
 
 ```
 
-Incluir números? (s/n): Escolha se deseja incluir números.
+5Incluir números? (s/n): Escolha se deseja incluir números.
 
 ```
 Incluir caracteres especiais? (s/n): Escolha se deseja incluir caracteres especiais.
