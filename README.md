@@ -10,7 +10,7 @@ Bem-vindo ao repositório do Gerador de Senhas Automáticas! Este projeto foi de
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
-- [Contato](#contato)
+
 
 ## 🌟| Sobre o Projeto
 
